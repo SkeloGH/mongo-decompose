@@ -1,0 +1,23 @@
+{
+  "name": "mongo-decompose",
+  "version": "0.1.0",
+  "description": "",
+  "main": "decompose.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkeloGH/mongo-decompose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkeloGH/mongo-decompose/issues"
+  },
+  "homepage": "https://github.com/SkeloGH/mongo-decompose#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mongodb": "^3.4.1"
+  }
+}
